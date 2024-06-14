@@ -1,0 +1,25 @@
+.banner{
+    display: flex;
+    justify-content:space-between ;
+    align-items: center;
+    .banner-type{
+        text-align: center;
+        width: 900px;
+        margin: 0 auto;
+        
+        h1{
+            font-size: 80px;
+            padding-right: 10px;
+            margin: 40px;
+        }
+        p{
+            margin: 40px;
+        }
+        button{
+            margin-right: 330px;
+            h2{
+                margin-right:0px;
+            }
+        }
+    }
+}

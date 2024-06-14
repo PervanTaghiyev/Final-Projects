@@ -1,0 +1,22 @@
+.header{
+    .header-banner{
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 3rem ;
+    }
+    nav{
+        ul{
+            display: flex;
+        gap: 2rem;
+
+        li{
+            list-style: none;
+        }
+        }
+    }
+}
+.icons{
+    display: flex;
+    gap: 2rem;
+}
